@@ -1,0 +1,12 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+.navItems {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
